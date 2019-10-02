@@ -151,3 +151,7 @@ func startPage(c *gin.Context)  {
 		"title": "simple api gin",
 	})
 }
+
+/**
+Ereke
+ */
